@@ -6,3 +6,4 @@ extras/documentation
 *.prefs
 *.buildpath
 *.project
+whatsbot/whatsbot_config.php
